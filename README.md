@@ -1,4 +1,4 @@
-### Hi there 👋
+###  👋 热爱技术，热爱生活
 
 <!--
 **whatzhang/whatzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
