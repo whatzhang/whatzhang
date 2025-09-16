@@ -1,7 +1,7 @@
 <!-- 头部动态波浪横幅 :cite[4]:cite[6] -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=hello,word&fontSize=60&fontAlign=50&fontAlignY=40&desc=&descAlign=50&descSize=30&descAlignY=70&animation=twinkling" style="border: 2px solid #fff; border-radius: 10px;width: 100%;"/>
-</p>
+</p> -->
 
 
 <p align="center">
@@ -34,9 +34,11 @@
 </p> -->
 
 <!-- 动态打字机效果 :cite[6]:cite[7] -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=做具体的事;过具体的生活;爱具体的人" alt="Typing SVG" />
-</p>
+</p> -->
+<!-- <p align="center" style="font-size: 60px;color: #58A6FF;">做具体的事,过具体的生活,爱具体的人</p> -->
+---
 
 <!-- 动态徽章和计数器 :cite[1]:cite[6] -->
 <p align="center">
@@ -79,6 +81,6 @@
 </p> -->
 
 <!-- 底部动态波浪横幅 :cite[4]:cite[6] -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer&text=&fontSize=40&fontAlign=50&fontAlignY=70&animation=twinkling" style="border: 2px solid #fff; border-radius: 10px;width: 100%;"/>
-</p>
+</p> -->
