@@ -4,7 +4,7 @@
 </p> -->
 
 
-<p align="center">
+<!-- <p align="center">
    <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a>
    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -26,7 +26,7 @@
    <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/> </a>
    <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original-wordmark.svg" alt="rabbitmq" width="40" height="40"/> </a>
    <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
-</p>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=whatzhang&show_icons=true&theme=light" alt="whatzhang's GitHub stats" />
@@ -38,7 +38,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=40&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=做具体的事;过具体的生活;爱具体的人" alt="Typing SVG" />
 </p> -->
 <!-- <p align="center" style="font-size: 60px;color: #58A6FF;">做具体的事,过具体的生活,爱具体的人</p> -->
----
+
 
 <!-- 动态徽章和计数器 :cite[1]:cite[6] -->
 <p align="center">
